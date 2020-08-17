@@ -1,0 +1,5 @@
+ds3v1:
+first version
+v2:
+-menu tpf dosyalarýný geri paketleme özelliði
+-exe patch olayýna menux eklendi, dile göre menu tpf dosyalarýný okusun diye
